@@ -1,8 +1,8 @@
 {
   "usuarios": [
     {
-      "nome": "Davi Quinelato",
-      "email": "ilegivelnecroteriodasilveira@gmail.com",
+      "nome": "Administrador",
+      "email": "admin@sistema.com",
       "senha": "Admin@123",
       "perfil": "Administrador"
     }
