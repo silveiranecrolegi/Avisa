@@ -1,9 +1,9 @@
 {
   "usuarios": [
     {
-      "nome": "Guilherme Kobi",
-      "email": "guilhermeksilva1@gmail.com",
-      "senha": "MooN1304",
+      "nome": "Administrador",
+      "email": "admin@sistema.com",
+      "senha": "Admin@123",
       "perfil": "Administrador"
     }
   ]

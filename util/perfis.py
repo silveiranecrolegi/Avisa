@@ -25,12 +25,13 @@ class Perfil(EnumEntidade):
 
     Exemplos:
         - Correto: perfil = Perfil.ADMIN.value
-        - Correto: perfil = Perfil.EDITOR.value
+        - Correto: perfil = Perfil.LEITOR.value
         - ERRADO: perfil = "admin"
     """
 
     # PERFIS DO SEU SISTEMA #####################################
     ADMIN = "Administrador"
-    EDITOR = "Editor"
     LEITOR = "Leitor"
+    EDITOR = "Editor"
+    AUTOR = "Autor"
     # FIM DOS PERFIS ############################################
