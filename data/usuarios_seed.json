@@ -1,8 +1,8 @@
 {
   "usuarios": [
     {
-      "nome": "Italo Dias Barbosa",
-      "email": "italifes.007@gmail.com",
+      "nome": "Administrador",
+      "email": "admin@sistema.com",
       "senha": "Admin@123",
       "perfil": "Administrador"
     }
